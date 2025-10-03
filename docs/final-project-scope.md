@@ -40,7 +40,7 @@ You will not see a list of vendors added to the project. As any vendors needed f
 ###### PRIORITIES
 
 The priorities for this project will be to clearly state and clairfy the policies in the contract to rent an Event Hall Center.
-The contract should be 1 full page, with clear and conscise wording.
+The contract should be 1 full page, with clear and conscise wording, and 1 page for the invoice. 
 
 ###### ACCEPTANCE CRITERIA
 
