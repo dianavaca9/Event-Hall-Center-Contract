@@ -9,7 +9,5 @@ included on the second page. This would be made to help my business grow, and lo
  The priorities for for this project will be to clearly state and clarify the policies in the contract to rent my event hall center.
  The contract should be 1 page, with clear and conscise wording; 1 page for the invoice. 
 
- Here is a link to my website: 
-
-
+ Here is a link to my website: [(https://dianavaca9.github.io/event-hall-center-contract/)]
 
