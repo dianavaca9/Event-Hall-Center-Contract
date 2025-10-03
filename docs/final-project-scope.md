@@ -31,7 +31,7 @@ An Event Hall Center would be available to anyone, considering the resquested da
 
 At the beginning when buying a venue, I would have to dig into my own savings to purchase the venu, and remodel anything if needed. As the Event Hall Center gets rented out, it would be paying itself for the next 2-3 years. After that, I would be making 100% profit off of the Event Hall Center. 
 
-The desired results would be to create a "REAL LIFE" contract, for this Event Hall Center, including all policies, rules, regulations, invoices etc. 
+The desired results would be to create a "REAL LIFE" contract, for this Event Hall Center, including all policies, rules, regulations, invoices etc. The contract is to also include what happens if clients are to neglect my establishment, and or break the contract.
 
 ##### EXCLUSIONS
 
